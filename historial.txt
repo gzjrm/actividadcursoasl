@@ -3,3 +3,135 @@ gallardo.txt:6:history -c
 gallardo.txt:79:21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
 .git/hooks/pre-rebase.sample:16:# would result in rebasing already published history.
 .git/hooks/pre-rebase.sample:105:   it makes it easier to keep your history simple.
+    1  git clone https://github.com/gzjrm/actividadcursoasl.git
+    2  ls
+    3  cd actividadcursoasl/
+    4  ls
+    5  ls 
+    6  mv /home/equipo18/evaluacion/cursoasl/evaluacion.txt .
+    7  ls
+    8  mv evaluacion.txt gallardo.txt
+    9  ls
+   10  nano gallardo.txt 
+   11  mkdir cunaguaro
+   12  ps -aux | grep cunaguaro.txt
+   13  grep cuanaguaro.txt
+   14  exit
+   15  cd cunaguaro/
+   16  nano gallardo.txt
+   17  cd ..
+   18  nano gallardo.txt 
+   19  cd cunaguaro/
+   20  cd ..
+   21  cat --help
+   22  ~nano gallardo.txt 
+   23  ls
+   24  nano gallardo.txt
+   25  iwconfig 
+   26  nano gallardo.txt 
+   27  mkdir sl
+   28  aptitude install sl
+   29  ls
+   30  cd sl
+   31  ls
+   32  dpkg remove --purge sl
+   33  dpkg --remove --purge sl
+   34  aptitude remove --purge sl
+   35  aptitude install sl
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd sl
+   40  ls
+   41  cd .. 
+   42  cd ..
+   43  cd sl
+   44  ls
+   45  cd sl-3.03
+   46  ls
+   47  nano sl.h
+   48  dpkg-buildpackage sl
+   49  dpkg-buildpackage -i
+   50  dpkg --commit
+   51  dpkg -commit
+   52  cd ..
+   53  cd actividadcursoasl/
+   54  nano gallardo.txt 
+   55  nano gallardo.txt 
+   56  git pull https://github.com/gzjrm
+   57  git -commit
+   58  git poll https://github.com/gzjrm
+   59  nano gallardo.txt 
+   60* 
+   61  ls
+   62  nano gallardo.txt 
+   63  nano gallardo.txt 
+   64* ps -aux | grep 
+   65  los
+   66  ls
+   67  mkdir kernel
+   68  ls
+   69  nano gallardo.txt 
+   70  mv kernel . kernel1.0
+   71  rm kernel  kernel1.0
+   72  rm kernel .  kernel1.0
+   73  rm --help
+   74  mv --help
+   75  mv kernel . kernel1.0
+   76  mv kernel kernel1.0
+   77  ls
+   78  mv history >> historial.txt
+   79  ps -aux | grep history  >> historial.txt
+   80  ls
+   81  nano historial.txt 
+   82  history --help
+   83  ps -aux | grep history -anrw  >> historial.txt
+   84  history --help
+   85  nano historial.txt 
+   86  ps -aux | grep history -d  >> historial.txt
+   87  nano historial.txt 
+   88  git add.
+   89  git push
+   90  git --commit -a
+   91  git --commit
+   92  git --commit -a
+   93  git add
+   94  git add .
+   95  git --commit -a
+   96  ls -la
+   97  git push
+   98  git add .
+   99  git --commit -a
+  100  git commit -a
+  101  git commit -a
+  102  git push
+  103  ls
+  104  git add cunaguaro
+  105  git add kernel1.0
+  106  git add sl
+  107  git commit -a
+  108  git push
+  109  git add.
+  110  git add .
+  111  ls -la
+  112  git commit -a
+  113  git add
+  114  git add .
+  115  git commit -a
+  116  git add --all
+  117  git commit -a
+  118  cd ..
+  119  mv actividadcursoasl/ 1
+  120  git clone https://github.com/gzjrm/actividadcursoasl.git
+  121  cd actividadcursoasl/
+  122  ls
+  123  cd ..
+  124  ls
+  125  mv 1 actividadcursoasl/
+  126  cd actividadcursoasl/
+  127  ls
+  128  git add .
+  129  git push
+  130  git commit -a
+  131  git push
+  132  history >> historial.txt
