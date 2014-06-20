@@ -1,5 +1,0 @@
-root     12383  0.0  0.0   7848   884 pts/0    S+   14:47   0:00 grep --color=auto history
-gallardo.txt:6:history -c
-gallardo.txt:79:21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
-.git/hooks/pre-rebase.sample:16:# would result in rebasing already published history.
-.git/hooks/pre-rebase.sample:105:   it makes it easier to keep your history simple.
